@@ -1,1 +1,1 @@
-# ollama-deepseek-r1
+# Gen AI App Using DeepSeek-R1 With Ollama
